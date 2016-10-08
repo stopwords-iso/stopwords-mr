@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-mr",
+  "description": "The most comprehensive collection of stopwords for the Marathi language.",
+  "keywords": [
+    "Marathi",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-mr",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-mr.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
